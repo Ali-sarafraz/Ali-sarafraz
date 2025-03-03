@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🚀 Data Analyst → Aspiring Machine Learning Engineer  
 
-<!--
-**Ali-sarafraz/Ali-sarafraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Ali, a data enthusiast who started with data analysis and is now diving into the world of machine learning. I'm passionate about building intelligent models and advancing my AI skills.  
 
-Here are some ideas to get you started:
+## 🔹 Skills  
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning (in progress):** Scikit-learn, model evaluation, feature engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Experience  
+- Data analysis and visualization  
+- Data preprocessing and cleaning  
+- Extracting insights from real-world datasets  
+
+## 🔹 Currently Learning  
+- Machine learning algorithms  
+- Model evaluation and tuning  
+- End-to-end ML workflows  
+
+📌 Here on GitHub, you'll find my data analysis projects and my first steps in machine learning. Always open to learning and collaboration!  
+
+📫 Let's connect:  ali.sarafraz530@gmail.com
+
