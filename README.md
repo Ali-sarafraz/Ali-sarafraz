@@ -1,24 +1,57 @@
-# 🚀 Data Analyst → Data Scientist / ML Enthusiast  
+# 🚀 Junior Data Scientist | Machine Learning Enthusiast  
 
-👋 Hi there! I'm **Ali**, a data enthusiast who began with data analysis and have now completed a **Data Science course**, expanding my skills into machine learning and AI. I’m passionate about turning data into insights and building intelligent models that solve real-world problems.  
+👋 Hi! I’m **Ali**, a Junior Data Scientist with a background in data analysis and hands-on training in machine learning. I specialize in transforming raw data into actionable insights and building predictive models to solve real-world problems.  
 
-## 🔹 Skills  
-- **Programming:** Python  
-- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn, model training & evaluation, feature engineering, preprocessing  
-- **Data Handling:** Cleaning, transformation, exploratory data analysis (EDA)  
+I recently completed a comprehensive **Data Science program**, where I strengthened my skills in data preprocessing, model development, and evaluation. I’m continuously learning and expanding my expertise in AI and advanced machine learning techniques.
 
-## 🔹 Experience  
-- Data analysis, visualization, and storytelling  
-- Preprocessing and preparing real-world datasets  
-- Building and evaluating machine learning models  
-- Hands-on projects applying data science workflows end-to-end  
+---
 
-## 🔹 Currently Exploring  
-- Advanced machine learning techniques  
-- Deep learning fundamentals  
-- Deployment of ML models in real-world scenarios  
+## 🛠 Technical Skills  
 
-📌 Here on GitHub, you’ll find my **data analysis projects** and my growing collection of **machine learning projects** as I continue my journey in AI.  
+### Programming  
+- Python  
 
-📫 Let’s connect: **ali.sarafraz530@gmail.com**  
+### Data Analysis & Visualization  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Exploratory Data Analysis (EDA)  
+
+### Machine Learning  
+- Scikit-learn  
+- Supervised Learning (Regression & Classification)  
+- Model Evaluation (RMSE, R², Accuracy, Precision, Recall)  
+- Feature Engineering & Preprocessing  
+- Cross-validation  
+- Basic Hyperparameter Tuning  
+
+### Data Handling  
+- Data Cleaning & Transformation  
+- Handling Missing Data  
+- Encoding Categorical Variables  
+- Preventing Data Leakage  
+
+---
+
+## 💼 Practical Experience  
+
+- Conducted end-to-end data analysis projects  
+- Built and evaluated machine learning models on real-world datasets  
+- Applied structured ML workflows (EDA → Feature Engineering → Modeling → Evaluation)  
+- Translated analytical results into clear visual insights  
+
+---
+
+## 📚 Currently Learning  
+
+- Advanced Machine Learning Techniques  
+- Deep Learning Fundamentals  
+- Time Series Modeling  
+- Model Deployment & MLOps Basics  
+
+---
+
+📌 On this GitHub, you’ll find my **Data Analysis projects** and an expanding portfolio of **Machine Learning projects** reflecting my continuous growth in Data Science.  
+
+📫 **Contact:** ali.sarafraz530@gmail.com  
