@@ -1,57 +1,46 @@
-# 🚀 Junior Data Scientist | Machine Learning Enthusiast  
+# Hi, I'm Ali Sarafraz 👋
 
-👋 Hi! I’m **Ali**, a Junior Data Scientist with a background in data analysis and hands-on training in machine learning. I specialize in transforming raw data into actionable insights and building predictive models to solve real-world problems.  
+Biomedical Engineering student · data science practitioner · headed toward medical imaging
 
-I recently completed a comprehensive **Data Science program**, where I strengthened my skills in data preprocessing, model development, and evaluation. I’m continuously learning and expanding my expertise in AI and advanced machine learning techniques.
-
----
-
-## 🛠 Technical Skills  
-
-### Programming  
-- Python  
-
-### Data Analysis & Visualization  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Exploratory Data Analysis (EDA)  
-
-### Machine Learning  
-- Scikit-learn  
-- Supervised Learning (Regression & Classification)  
-- Model Evaluation (RMSE, R², Accuracy, Precision, Recall)  
-- Feature Engineering & Preprocessing  
-- Cross-validation  
-- Basic Hyperparameter Tuning  
-
-### Data Handling  
-- Data Cleaning & Transformation  
-- Handling Missing Data  
-- Encoding Categorical Variables  
-- Preventing Data Leakage  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
-## 💼 Practical Experience  
+## About
 
-- Conducted end-to-end data analysis projects  
-- Built and evaluated machine learning models on real-world datasets  
-- Applied structured ML workflows (EDA → Feature Engineering → Modeling → Evaluation)  
-- Translated analytical results into clear visual insights  
+I'm a Biomedical Engineering student with a growing focus on machine learning and data science.
+My background bridges biology and engineering — which naturally pulls me toward medical image analysis
+as a long-term goal: using AI to make sense of MRI, X-ray, and clinical data.
 
----
-
-## 📚 Currently Learning  
-
-- Advanced Machine Learning Techniques  
-- Deep Learning Fundamentals  
-- Time Series Modeling  
-- Model Deployment & MLOps Basics  
+Right now I'm building practical ML skills through real projects — classification, regression,
+time series forecasting — while working my way into deep learning and computer vision.
 
 ---
 
-📌 On this GitHub, you’ll find my **Data Analysis projects** and an expanding portfolio of **Machine Learning projects** reflecting my continuous growth in Data Science.  
+## Projects
 
-📫 **Contact:** ali.sarafraz530@gmail.com  
+| Project | Description | Stack |
+|---|---|---|
+| 🚇 [Train Ridership Forecasting](https://github.com/Ali-sarafraz/Train-Ridership-Forecasting) | Time series regression with ElasticNet. Handled data leakage carefully using time-aware cross-validation. | Python · Scikit-learn · Time Series |
+| 💳 [Loan Default Prediction](https://github.com/Ali-sarafraz/ML-loan-prediction) | Binary classification comparing Logistic Regression, MLP, and tree-based models. Prioritized generalization over raw accuracy. | Python · Classification · Model Selection |
+| 🫘 [Dry Bean Classification](https://github.com/Ali-sarafraz/dry-bean-classification) | Multi-class classification on morphological features of dry bean varieties. | Python · Multiclass · EDA |
+| 🎾 [Tennis Data Analysis](https://github.com/Ali-sarafraz/tennis-data-analysis) | Exploratory analysis of tennis match data, uncovering patterns in player performance. | Python · Pandas · Visualization |
+
+---
+
+## Currently learning
+
+- Deep learning with PyTorch / TensorFlow
+- Convolutional neural networks (CNNs)
+- Medical image segmentation & analysis
+
+---
+
+## Looking for
+
+An internship or junior role in data science / ML where I can contribute and keep learning — especially in healthcare or biomedical applications.
+
+📬 Open to collaborations and conversations — feel free to reach out.
