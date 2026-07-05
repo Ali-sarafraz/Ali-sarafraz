@@ -1,46 +1,95 @@
 # Hi, I'm Ali Sarafraz 👋
 
-Biomedical Engineering student · data science practitioner · headed toward medical imaging
+Data Scientist based in Tehran, Iran — focused on building end-to-end machine learning pipelines that turn raw data into actionable decisions.
+
+---
+
+## 🧠 About Me
+
+I work across the full data science lifecycle: from exploratory analysis and feature engineering through to model training, evaluation, and result communication. My projects span regression, classification, time-series forecasting, and deep learning.
+
+I recently completed a comprehensive **Data Science program** and have been applying those skills to increasingly complex real-world problems — most recently a multi-model forecasting system for rail ridership with COVID-19 impact analysis.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Core Libraries**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat)
 
 ---
 
-## About
+## 📂 Projects
 
-I'm a Biomedical Engineering student with a growing focus on machine learning and data science.
-My background bridges biology and engineering — which naturally pulls me toward medical image analysis
-as a long-term goal: using AI to make sense of MRI, X-ray, and clinical data.
+### 🚆 [Train Ridership Forecasting](https://github.com/Ali-sarafraz/Train-Ridership-Forecasting)
+End-to-end time-series forecasting pipeline predicting daily rail ridership and allocating trains per station across 2019–2022 (including COVID-19 impact).
 
-Right now I'm building practical ML skills through real projects — classification, regression,
-time series forecasting — while working my way into deep learning and computer vision.
+- Engineered lag, rolling mean, and cyclical calendar features with strict leakage prevention
+- Trained and tuned **ElasticNet** (GridSearchCV + TimeSeriesSplit) and **LSTM** (per-station sequences, EarlyStopping)
+- Ran a 4-method model comparison: global metrics, visual prediction, per-station RMSE, and train allocation accuracy
+- ElasticNet outperformed LSTM across all 5 criteria (RMSE: 433 vs 563, R²: 0.48 vs 0.13, station wins: 21/23)
 
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🚇 [Train Ridership Forecasting](https://github.com/Ali-sarafraz/Train-Ridership-Forecasting) | Time series regression with ElasticNet. Handled data leakage carefully using time-aware cross-validation. | Python · Scikit-learn · Time Series |
-| 💳 [Loan Default Prediction](https://github.com/Ali-sarafraz/ML-loan-prediction) | Binary classification comparing Logistic Regression, MLP, and tree-based models. Prioritized generalization over raw accuracy. | Python · Classification · Model Selection |
-| 🫘 [Dry Bean Classification](https://github.com/Ali-sarafraz/dry-bean-classification) | Multi-class classification on morphological features of dry bean varieties. | Python · Multiclass · EDA |
-| 🎾 [Tennis Data Analysis](https://github.com/Ali-sarafraz/tennis-data-analysis) | Exploratory analysis of tennis match data, uncovering patterns in player performance. | Python · Pandas · Visualization |
+`Python` `scikit-learn` `TensorFlow/Keras` `Time Series` `ElasticNet` `LSTM`
 
 ---
 
-## Currently learning
+### 🫘 [Dry Bean Classification](https://github.com/Ali-sarafraz/dry-bean-classification)
+Multi-class classification on the Dry Bean dataset — distinguishing 7 bean varieties from morphological measurements.
 
-- Deep learning with PyTorch / TensorFlow
-- Convolutional neural networks (CNNs)
-- Medical image segmentation & analysis
+- Performed EDA and feature selection
+- Compared multiple classifiers with cross-validation
+
+`Python` `scikit-learn` `Classification`
 
 ---
 
-## Looking for
+### 💳 [ML Loan Prediction](https://github.com/Ali-sarafraz/ML-loan-prediction)
+Binary classification model predicting loan approval outcomes.
 
-An internship or junior role in data science / ML where I can contribute and keep learning — especially in healthcare or biomedical applications.
+- Handled class imbalance and missing data
+- Evaluated with Precision, Recall, and ROC-AUC
 
-📬 Open to collaborations and conversations — feel free to reach out.
+`Python` `scikit-learn` `Classification`
+
+---
+
+### 🎾 [Tennis Data Analysis](https://github.com/Ali-sarafraz/tennis-data-analysis)
+Exploratory analysis of tennis match data — uncovering performance patterns across players, surfaces, and tournaments.
+
+`Python` `Pandas` `Matplotlib` `EDA`
+
+---
+
+### 📊 [Data Analyst Mini Project](https://github.com/Ali-sarafraz/Data-Analyst-mini-project)
+Structured data analysis project covering cleaning, transformation, visualization, and insight extraction.
+
+`Python` `Pandas` `Seaborn` `EDA`
+
+---
+
+## 📈 Currently Expanding Into
+
+- Advanced deep learning architectures (CNN, Transformers for tabular/time-series)
+- Model deployment and MLOps basics
+- Feature importance and model interpretability (SHAP)
+
+---
+
+## 📫 Contact
+
+📧 ali.sarafraz530@gmail.com
